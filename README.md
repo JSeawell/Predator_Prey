@@ -7,7 +7,7 @@ A simulation of Doodlebugs and Ants, written in C++
 > Ants are prey (o)
 > Every step:
 > - Ants move randomly up, down, left, or right, or else stay where they are
-> - If an Ant survives for three time steps, it breeds a new Ant into an adjacent cell (if possible)
+> - If an Ant survives for three time steps, it breeds a new Ant into an adjacent cell (if possible)  
 > Doodlebugs are predators (x)
 > Every step:
 > - Doodlebugs try to find and eat Ants in adjacent cells, otherwise they move randomly (same as Ants)

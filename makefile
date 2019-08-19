@@ -1,4 +1,4 @@
-EXEC = Project_Group17
+EXEC = Predator_Prey
 
 CC = g++
 

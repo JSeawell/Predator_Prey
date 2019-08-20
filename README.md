@@ -21,5 +21,5 @@ A simulation of Doodlebugs and Ants, written in C++
 > 3. Type the command: `Predator_Prey` to run the program
 > 4. Follow the simulation set-up instructions, and begin
 
-## What I learned:
+## Tech and/or concepts learned/used:
 > 1. 

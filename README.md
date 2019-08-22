@@ -22,4 +22,11 @@ A simulation of Doodlebugs and Ants, written in C++
 > 4. Follow the simulation set-up instructions, and begin
 
 ## Tech and/or concepts learned/used:
-> 1. 
+> - C++
+> - OOP (object-oriented programming)
+> - Polymophism
+> - Inheritance
+> - Team-coding and communication
+> - Source Control - Github
+> - Documentation
+> - Reflection
